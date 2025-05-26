@@ -3,6 +3,7 @@
 
 This project predicts student exam scores based on behavioral and environmental factors such as study hours, sleep, screen time, and more. Multiple machine learning models were trained and evaluated to identify the best-performing solution.
 
+
 ---
 
 ## 📁 Dataset
